@@ -7,4 +7,3 @@ My boss stupid still use SVN.
 
 create dev
 i modify something
-app2
